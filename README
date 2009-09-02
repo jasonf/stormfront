@@ -1,0 +1,9 @@
+First attempt at a ruby gem to interface with VMware's vCloud initiative.
+
+VMware's vCloud API allows manipulation of cloud objects using a RESTful API.
+
+Documentation about the API is available at:
+
+http://communities.vmware.com/community/developer/forums/vcloudapi
+
+This version is based on version 0.8 of the vCloud API.
